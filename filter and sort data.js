@@ -17,6 +17,7 @@ function processStudents(students) {
   
     return sortedNames;
 }
+
   
   const result = processStudents(students);
   console.log(result); // Output: ["Charlie", "Bob"]
